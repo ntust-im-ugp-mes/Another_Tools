@@ -1,7 +1,7 @@
 # Auto Drawing Prouction Flow Diagram Tool
 此工具可以藉由讀取生產線描述檔(.json)自動繪出此生產線的流程圖（Flow Diagram），可用於視覺化生產線模型以及MES監控頁面等用途使用
 
-## 生產線描述檔（Production Description File）
+## 生產線描述檔（Production Line Description File）
 生產線描述檔是一個用來描述生產線上的所有單元的描述檔，藉由這個檔案可以容易得了解整個生產線的組成
 * 所有單元包含生產線上的所有工作站、其他站點（如輸送帶）及物流等
 * 採用json格式儲存
